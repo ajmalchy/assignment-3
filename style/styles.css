@@ -21,3 +21,24 @@
     border-radius: 8px;
     padding:7px 25px;
     border: none;}
+
+.legal-img-1{
+    background-image: url("../images/slider-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+}
+
+
+.legal-img-2{
+    background-image: url("../images/slider-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+}
+.legal-img-3{
+    background-image: url("../images/slider-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+}
